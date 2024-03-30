@@ -1,4 +1,5 @@
-# ![UMG](img/logo__.png) Universidad Mariano Galvez de Guatemala
+![UMG](img/logo__.png) 
+# Universidad Mariano Galvez de Guatemala
 
 ## Administración de tecnologías de la información
 
